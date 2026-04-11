@@ -20,7 +20,7 @@
 
 Construyo **software empresarial robusto sobre el ecosistema Frappe** 10x mas rápido sin sacrificar la calidad del producto — desde aplicaciones completas creadas desde cero, hasta personalizaciones profundas de ERPNext para industrias específicas. Mi fortaleza es la versatilidad: puedo arquitectar un sistema completo con base Frappe Framework, y también adaptar ERPNext para que se ajuste perfectamente a un rubro especifico.
 
-Trabajo en **Bizmotion** desarrollando soluciones para logística, gobierno, contrucción, retail, etc. Ultimos productos realizados **Mandox ERP, Mandox WMS, Mandox TMS, Mandox OTT, Mandox Turismo, Mandox, Mandox City, Mandox Acta Digital**
+Trabajo en **Bizmotion** desarrollando soluciones para logística, gobierno, contrucción, retail, etc. Ultimos productos realizados **Mandox ERP, Mandox WMS, Mandox TMS, Mandox OTT, Mandox Turismo, Mandox City, Mandox Acta Digital**
 
 ---
 
