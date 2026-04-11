@@ -114,13 +114,13 @@ Módulo ERPNext para gestión de contratos de servicios de construcción, factur
 ## 📊 Lo Que Hago
 
 ```
-🏗️  Construyo apps Frappe desde cero — sistemas completos con 30+ DocTypes
+🏗️  Construyo apps Frappe desde cero — sistemas completos con 300+ DocTypes
 ⚡  Personalizo y extiendo ERPNext para industrias específicas
 🎨  Diseño interfaces premium con Vue 3, Frappe UI e interfaces modernas
 🤖  Integro IA/ML para procesamiento inteligente de datos
 🔔  Implemento notificaciones en tiempo real (Socket.IO + Web Push)
 🏢  Arquitecto sistemas multi-tenant para logística y empresa
-📱  Desarrollo Progressive Web Apps sobre Frappe
+📱  Desarrollo Progressive Web Apps sobre Frappe, Apps Android, IOS.
 🇧🇴  Desde Bolivia, sirviendo a Latinoamérica
 ```
 
